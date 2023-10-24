@@ -1,0 +1,48 @@
+
+--
+-- RESPONSÁVEL PELA ENTREGA TEM QUE EXECUTAR ESSE COMANDO
+--
+
+GRANT SELECT ON  t_rhstu_bairro TO PF0110;
+
+GRANT SELECT ON  t_rhstu_cidade TO PF0110;
+
+GRANT SELECT ON  t_rhstu_consulta TO PF0110;
+
+GRANT SELECT ON  t_rhstu_consulta_forma_pagto TO PF0110;
+
+GRANT SELECT ON  t_rhstu_contato_paciente TO PF0110;
+
+GRANT SELECT ON  t_rhstu_email_paciente TO PF0110;
+
+GRANT SELECT ON  t_rhstu_endereco_paciente TO PF0110;
+
+GRANT SELECT ON  t_rhstu_endereco_unidhosp TO PF0110;
+
+GRANT SELECT ON  t_rhstu_estado TO PF0110;
+
+GRANT SELECT ON  t_rhstu_forma_pagamento TO PF0110;
+
+GRANT SELECT ON  t_rhstu_funcionario TO PF0110;
+
+GRANT SELECT ON  t_rhstu_logradouro TO PF0110;
+
+GRANT SELECT ON  t_rhstu_medicamento TO PF0110;
+
+GRANT SELECT ON  t_rhstu_medico TO PF0110;
+
+GRANT SELECT ON  t_rhstu_motorista TO PF0110;
+
+GRANT SELECT ON  t_rhstu_paciente TO PF0110;
+
+GRANT SELECT ON  t_rhstu_paciente_plano_saude TO PF0110;
+
+GRANT SELECT ON  t_rhstu_plano_saude TO PF0110;
+
+GRANT SELECT ON  t_rhstu_prescricao_medica TO PF0110;
+
+GRANT SELECT ON  t_rhstu_telefone_paciente TO PF0110;
+
+GRANT SELECT ON  t_rhstu_tipo_contato TO PF0110;
+
+GRANT SELECT ON  t_rhstu_unid_hospitalar TO PF0110;
